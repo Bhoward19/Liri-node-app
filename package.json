@@ -1,0 +1,21 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "main": "keys.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "Branden",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": ""
+  },
+  "devDependencies": {},
+  "description": "Project for UCF Bootcamp"
+}
